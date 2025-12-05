@@ -1,0 +1,10 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Copyright ${date?date?string("yyyy")} ${project.organization!user}.
+${licensePrefix?replace(" +$", "", "r")}
+${licensePrefix}Licensed for academic use only,
+${licensePrefix}Do not distribute or modify unless for academic purposes.
+<#if licenseLast??>
+${licenseLast}
+</#if>

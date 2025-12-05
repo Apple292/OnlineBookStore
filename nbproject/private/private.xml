@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/admin/OneDrive%20-%20TAFE%20SA/Documents/Work/ICTPRG556/BookShop%20Assignment/BookShop/web/jsp/cart.jsp</file>
+            <file>file:/C:/Users/admin/OneDrive%20-%20TAFE%20SA/Documents/Work/ICTPRG556/BookShop%20Assignment/BookShop/src/java/dispatchers/IDispatcher.java</file>
+            <file>file:/C:/Users/admin/OneDrive%20-%20TAFE%20SA/Documents/Work/ICTPRG556/BookShop%20Assignment/BookShop/src/java/controller/FrontController.java</file>
+            <file>file:/C:/Users/admin/OneDrive%20-%20TAFE%20SA/Documents/Work/ICTPRG556/BookShop%20Assignment/BookShop/src/java/model/Book.java</file>
+            <file>file:/C:/Users/admin/OneDrive%20-%20TAFE%20SA/Documents/Work/ICTPRG556/BookShop%20Assignment/BookShop/web/jsp/footer.jsp</file>
+            <file>file:/C:/Users/admin/OneDrive%20-%20TAFE%20SA/Documents/Work/ICTPRG556/BookShop%20Assignment/BookShop/web/jsp/checkout.jsp</file>
+            <file>file:/C:/Users/admin/OneDrive%20-%20TAFE%20SA/Documents/Work/ICTPRG556/BookShop%20Assignment/BookShop/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/admin/OneDrive%20-%20TAFE%20SA/Documents/Work/ICTPRG556/BookShop%20Assignment/BookShop/web/jsp/final.jsp</file>
+            <file>file:/C:/Users/admin/OneDrive%20-%20TAFE%20SA/Documents/Work/ICTPRG556/BookShop%20Assignment/BookShop/src/java/dispatchers/UpdateCartDispatcher.java</file>
+            <file>file:/C:/Users/admin/OneDrive%20-%20TAFE%20SA/Documents/Work/ICTPRG556/BookShop%20Assignment/BookShop/src/java/dispatchers/ViewCartDispatcher.java</file>
+            <file>file:/C:/Users/admin/OneDrive%20-%20TAFE%20SA/Documents/Work/ICTPRG556/BookShop%20Assignment/BookShop/src/java/dispatchers/CheckoutDispatcher.java</file>
+            <file>file:/C:/Users/admin/OneDrive%20-%20TAFE%20SA/Documents/Work/ICTPRG556/BookShop%20Assignment/BookShop/web/jsp/thankyou.jsp</file>
+            <file>file:/C:/Users/admin/OneDrive%20-%20TAFE%20SA/Documents/Work/ICTPRG556/BookShop%20Assignment/BookShop/src/java/model/Member.java</file>
+            <file>file:/C:/Users/admin/OneDrive%20-%20TAFE%20SA/Documents/Work/ICTPRG556/BookShop%20Assignment/BookShop/web/jsp/error.jsp</file>
+            <file>file:/C:/Users/admin/OneDrive%20-%20TAFE%20SA/Documents/Work/ICTPRG556/BookShop%20Assignment/BookShop/src/java/dispatchers/ContinueDispatcher.java</file>
+            <file>file:/C:/Users/admin/OneDrive%20-%20TAFE%20SA/Documents/Work/ICTPRG556/BookShop%20Assignment/BookShop/web/jsp/header.jsp</file>
+            <file>file:/C:/Users/admin/OneDrive%20-%20TAFE%20SA/Documents/Work/ICTPRG556/BookShop%20Assignment/BookShop/web/jsp/titles.jsp</file>
+            <file>file:/C:/Users/admin/OneDrive%20-%20TAFE%20SA/Documents/Work/ICTPRG556/BookShop%20Assignment/BookShop/web/index.jsp</file>
+            <file>file:/C:/Users/admin/OneDrive%20-%20TAFE%20SA/Documents/Work/ICTPRG556/BookShop%20Assignment/BookShop/src/java/dispatchers/AddCartDispatcher.java</file>
+            <file>file:/C:/Users/admin/OneDrive%20-%20TAFE%20SA/Documents/Work/ICTPRG556/BookShop%20Assignment/BookShop/src/java/dispatchers/BookDispatcher.java</file>
+        </group>
+    </open-files>
+</project-private>
