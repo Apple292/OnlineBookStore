@@ -12,6 +12,7 @@
         <link rel="stylesheet" type="text/css" href="css/style.css">
     </head>
     <body>
+        <jsp:include page="header.jsp" flush="true"/>
         <%@ page import="model.*" %>
         <%@ page import="java.util.*" %>
         <%@ page import="java.text.*" %>
@@ -74,5 +75,6 @@
             <p><a href="./books?action=continue">Continue Shopping</a></p>
             <p><a href="./books?action=checkout">Check Out</a></p>
         </div>
+        <jsp:include page="footer.jsp" flush="true"/>
     </body>
 </html>

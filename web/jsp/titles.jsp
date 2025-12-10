@@ -13,7 +13,7 @@
     </head>
 
     <body>
-        
+        <jsp:include page="header.jsp" flush="true"/>
   <h1>Items in your Shopping Cart</h1>
 
 <table>
@@ -109,6 +109,6 @@
         <div class="link-container">
             <p><a href="./books?action=view_cart">View Shopping Cart</a></p>
         </div>
-        
+        <jsp:include page="footer.jsp" flush="true"/>
     </body>
 </html>

@@ -8,6 +8,7 @@
         <link rel="stylesheet" type="text/css" href="css/style.css">
     </head>
     <body>
+        <jsp:include page="header.jsp" flush="true"/>
         <c:set var="items" value="${sessionScope.cart}"/> <!-- accessing the books session object -->
         <%@ page import="model.*" %>
         <%@ page import="java.util.*" %>
@@ -88,5 +89,6 @@
 
             <p><input type="submit" value="Submit"></p>
         </form>
+        <jsp:include page="footer.jsp" flush="true"/>
     </body>
 </html>

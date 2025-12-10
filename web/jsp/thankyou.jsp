@@ -13,5 +13,6 @@
         <hr>
         <h3>Your credit card details are being validated</h3>
             <c:remove var="sessionScope" scope="session"/>
+        
     </body>
 </html>

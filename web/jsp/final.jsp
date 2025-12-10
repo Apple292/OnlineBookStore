@@ -8,6 +8,7 @@
         <link rel="stylesheet" type="text/css" href="css/style.css">
     </head>
     <body>
+        <jsp:include page="header.jsp" flush="true"/>
                 <c:set var="message" value="${sessionScope.result}"/> <!-- accessing the books session object -->
         <h2>Online Bookstore</h2>
         <hr>
